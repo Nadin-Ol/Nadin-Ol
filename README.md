@@ -1,4 +1,4 @@
-# Hi, I'm Nadia Olinyk 👋
+# Hi, I'm Nadia  👋
 
 Junior Data Analyst with a background in education management and sales.
 
