@@ -1,11 +1,3 @@
-## Hi there 👋
-
-<!--
-**Nadin-Ol/Nadin-Ol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-
 # Hi, I'm Nadia Olinyk 👋
 
 Junior Data Analyst with a background in education management and sales.
